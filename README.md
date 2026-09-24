@@ -3,7 +3,6 @@
 > Because Mondays need punch-lines, not just coffee.
 
 ---
-
 ## What is Funny-Quotes?
 
 A tiny React app that serves **one-liner jokes** with the tap of a button.  
