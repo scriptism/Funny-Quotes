@@ -1,5 +1,4 @@
 # <h1>🎭 Funny-Quotes README </h1>
-
 > Because Mondays need punch-lines, not just coffee.
 ---
 ## What is Funny-Quotes?
