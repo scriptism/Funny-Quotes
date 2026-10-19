@@ -1,6 +1,7 @@
 # <h1>🎭 Funny-Quotes README </h1>
 > Because Mondays need punch-lines, not just coffee.
 ---
+
 ## What is Funny-Quotes?
 A tiny React app that serves **one-liner jokes** with the tap of a button.  
 Think of it as a fortune cookie that went to comedy school.
