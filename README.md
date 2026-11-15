@@ -9,7 +9,6 @@ Think of it as a fortune cookie that went to comedy school.
 ---
 
 ## 🚀 Quick Start
-
 ```bash
 git clone https://github.com/scriptism/Funny-Quotes.git
 cd Funny-Quotes
