@@ -7,7 +7,6 @@ A tiny React app that serves **one-liner jokes** with the tap of a button.
 Think of it as a fortune cookie that went to comedy school.
 
 ---
-
 ## 🚀 Quick Start
 ```bash
 git clone https://github.com/scriptism/Funny-Quotes.git
